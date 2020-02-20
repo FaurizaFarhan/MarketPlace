@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marketplace Ade</string>
+    <string-array name="spinner">
+        <item>Country</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+    </string-array>
+</resources>
